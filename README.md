@@ -1,5 +1,5 @@
-# DeepTCR(beta)
+# TCRnet(beta)
 
-This is a beta version of our tool: DeepTCR.
+This is a beta version of our tool: TCRnet.
 
- DeepTCR is a deep learning classifier based on convolutional neural network. It can judge whether there is a disease based on the TCR sequence sequenced by the subject's cellular immune group
+ TCRnet is a deep learning classifier based on convolutional neural network. It can judge whether there is a disease based on the TCR sequence sequenced by the subject's T cell receptor repertoires 
